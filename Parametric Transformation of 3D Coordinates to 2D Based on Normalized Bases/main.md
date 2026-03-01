@@ -35,12 +35,7 @@ These vectors form an oblique basis on the representation plane.
 
 We compute the Euclidean magnitudes of the diagonal vectors:
 
-$$
-\|V_2\| = \|V_3\| =
-\sqrt{\left(\frac{n}{2}\right)^2+\left(-\frac{m}{2}\right)^2}
-=
-\frac{\sqrt{n^2+m^2}}{2}
-$$
+$$|V_2| = |V_3| = \sqrt{\left(\frac{n}{2}\right)^2 + \left(-\frac{m}{2}\right)^2} = \frac{\sqrt{n^2 + m^2}}{2}$$
 
 Defining the scale constant
 
